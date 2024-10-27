@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&amp;family=Rubik:wght@400;500;600&amp;display=swap');
+@import url("{% static 'immigwayapp/assets/fonts/bootstrap-icons-1.1/font/bootstrap-icons.css' %}");
+@import url("{% static 'immigwayapp/assets/css/bootstrap.min.css' %}");
+@import url("{% static 'immigwayapp/assets/css/animation.css' %}");
+
+@import url("{% static 'immigwayapp/plugins/wow/animate.css' %}");
+@import url("{% static 'immigwayapp/plugins/swiper/swiper-bundle.min.css' %}");
+@import url("{% static 'immigwayapp/plugins/odometer/odometer-theme-default.css' %}");
+@import url("{% static 'immigwayapp/plugins/fancybox/jquery.fancybox.css' %}");
+@import url("{% static 'immigwayapp/plugins/fullcalendar/fullcalendar.min.css' %}");
+@import url("{% static 'immigwayapp/plugins/flatpickr/flatpickr.css' %}");
+@import url("{% static 'immigwayapp/plugins/nice-select/nice-select.css' %}");
+
+@import url("{% static 'immigwayapp/assets/css/global.css' %}");
+@import url("{% static 'immigwayapp/assets/css/header.css' %}");
+@import url("{% static 'immigwayapp/assets/css/footer.css' %}");
+@import url("{% static 'immigwayapp/assets/css/preloader.css' %}");
+@import url("{% static 'immigwayapp/assets/css/components.css' %}");
+@import url("{% static 'immigwayapp/assets/css/contact.css' %}");
+@import url("{% static 'immigwayapp/assets/css/blog.css' %}");
+@import url("{% static 'immigwayapp/assets/css/sidebar.css' %}");
+@import url("{% static 'immigwayapp/assets/css/portfolio.css' %}");
+@import url("{% static 'immigwayapp/assets/css/style.css' %}");
+@import url("{% static 'immigwayapp/assets/css/responsive.css' %}");
